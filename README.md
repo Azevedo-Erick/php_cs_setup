@@ -21,7 +21,7 @@ php-cs-fixer --version
 
 ```json
 {
-"php-cs-fixer.executablePath": "<Path>/vendor/bin/php-cs-fixer.bat",
+    "php-cs-fixer.executablePath": "<Path>/vendor/bin/php-cs-fixer.bat",
     "php-cs-fixer.config": "<Path>/vendor/bin/config.php_cs",
     "php-cs-fixer.onsave": true,
     "php-cs-fixer.rules": "@PSR2",
