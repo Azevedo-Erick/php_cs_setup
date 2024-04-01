@@ -12,7 +12,8 @@ php-cs-fixer --version
 ```
 3.  Instalar extensão no vs code
 	[php cs fixer ](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
-4. Configurar o PHP CS Fixer no settings.json
+        [PHP class generator](https://marketplace.visualstudio.com/items?itemName=damianbal.vs-phpclassgen)
+5. Configurar o PHP CS Fixer no settings.json
 
 > [!TIP]
 > Para encontrar o diretório global do composer
